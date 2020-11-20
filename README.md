@@ -1,4 +1,7 @@
 # Evidencia2Progra
+Dante Alvarez
+Hector Carrasco
+Matias Sepulveda
 
 1)	Crear programa llamado HolaMundo.java, que imprima en pantalla la cadena "Hola Mundo!!!!"
 2)	Agregar ramas (branch) con cada integrante del grupo y subir los archivos de cada uno
